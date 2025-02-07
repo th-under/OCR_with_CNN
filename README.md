@@ -20,5 +20,6 @@ You need to have a basic understanding of artificial neural nets and know how to
 First start a jupyter notebook:  
     ```BASH  
     jupyter notebook  
-    ```
+    ```  
+    
 Then load the OCR_with_CNN notebook and follow the instructions. 
