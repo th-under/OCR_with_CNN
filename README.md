@@ -8,17 +8,17 @@ You need to have a basic understanding of artificial neural nets and know how to
 1. Download or clone this repo  
 2. Install a virtual environment and the required packages:
 
-    ```BASH
-    pyenv local 3.11.3
+    ```
     python -m venv .venv
     source .venv/bin/activate
     pip install --upgrade pip
     pip install -r requirements.txt
     ```
+    (Tested with python 3.11.3)
 
 ## Usage 
 First start a jupyter notebook:  
-    ```BASH  
+    ```  
     jupyter notebook  
     ```  
     
