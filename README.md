@@ -17,9 +17,6 @@ You need to have a basic understanding of artificial neural nets and know how to
     (Tested with python 3.11.3)
 
 ## Usage 
-First start a jupyter notebook:  
-    ```  
-    jupyter notebook  
-    ```  
+First start a jupyter notebook with   ```jupyter notebook```  
     
-Then load the OCR_with_CNN notebook and follow the instructions. 
+Then load the OCR_with_CNN.ipynb notebook and follow the instructions. 
