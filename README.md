@@ -1,4 +1,4 @@
-# OCR_with_CNN
+# OCR with CNN
 Create an OCR tool to understand how convolutional neural nets work
 
 ## Required prior knowledge  
@@ -18,7 +18,7 @@ You need to have a basic understanding of artificial neural nets and know how to
 
 ## Usage 
 First start a jupyter notebook:  
-    ```BASH
+    ```BASH  
     jupyter notebook  
     ```
 Then load the OCR_with_CNN notebook and follow the instructions. 
